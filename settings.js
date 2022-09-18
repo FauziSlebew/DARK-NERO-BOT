@@ -12,8 +12,8 @@ global.APIKeys = {
 }
 
 
-global.OWNER_REACT = '❄️'
-global.REACT_NUMBER = '6281908260632'
+global.OWNER_REACT = '🚀'
+global.REACT_NUMBER = '6287837703726'
 
 //aumto functioner
 global.autoTyping = true //auto tying in gc (true to on, false to off)
@@ -34,23 +34,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['6281908260632'] //ur owner number
-global.ownername = "❄️ OWNERS ❄️" //ur owner name
+global.vcardowner = ['6287837703726'] //ur owner number
+global.ownername = "𝙁𝘼𝙐𝙕𝙄𝍨" //ur owner name
 global.ytname = "YT: FlySarik" //ur yt chanel name
-global.socialm = "GitHub: Flyzunx" //ur github or insta name
-global.location = "Indonesia, Kalimantan Selatan, Cempaka" //ur location
+global.socialm = "GitHub: FauziSlebew" //ur github or insta name
+global.location = "Indonesia, Kalimantan Selatan, Banjarmasin" //ur location
 
 //bot bomdy 
-global.owner = ['6281908260632']
-global.ownertag = '6281908260632' //ur tag number
-global.botname = '✫ ✫ ✫FlySarik-MD✫ ✫ ✫' //ur bot name
-global.linkz = "https://github.com/Kaveeshasithum/DARK-NERO-BOT.git" //your theme url which will be displayed on whatsapp
-global.websitex = "https://github.com/Kaveeshasithum/DARK-NERO-BOT.git" //ur website to be displayed
-global.botscript = 'https://github.com/Kaveeshasithum/DARK-NERO-BOT.git' //script link
-global.reactmoji = "😘" //ur menu react emoji
-global.themeemoji = "❄️" //ur theme emoji
-global.packname = "FlySarik-MD" //ur sticker watermark packname
-global.author = "© Amell" //ur sticker watermark author
+global.owner = ['6287837703726']
+global.ownertag = '6287837703726' //ur tag number
+global.botname = '𝙁𝙖𝙪𝙯𝙞𝘽𝙤𝙩𝙯-𝙈𝙙' //ur bot name
+global.linkz = "https://github.com/FauziSlebew" //your theme url which will be displayed on whatsapp
+global.websitex = "https://Instagram.com/fauzibeban__" //ur website to be displayed
+global.botscript = 'https://github.com/FauziSlebew' //script link
+global.reactmoji = "🗿" //ur menu react emoji
+global.themeemoji = "☠️" //ur theme emoji
+global.packname = "Dibuat Oleh" //ur sticker watermark packname
+global.author = "© 𝙁𝙖𝙪𝙯𝙞𝘽𝙤𝙩𝙯-𝙈𝙙:6285945646584" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -59,7 +59,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['6281908260632'] //ur premium numbers
+global.premium = ['6287837703726'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
