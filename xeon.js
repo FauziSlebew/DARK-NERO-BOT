@@ -6,7 +6,7 @@
 //© 2022 kavee Bot Inc. Dark nero Bot MD 
 //Thank you to Lord Buddha, Family and Myself
 //════════════════════════════//
-// my owenr kaveesha
+// my owenr fauzi
 //════════════════════════════//
 //If you recode and uploading on your channel
 //or copy pasting the codes in ur script, 
@@ -161,10 +161,10 @@ XeonLft = await getBuffer(`https://hardianto.xyz/api/goodbye3?profile=${encodeUR
 	            const xdate = moment.tz('Asia/Kolkata').format('YYYY/MM/DD')
 	            const xmembers = metadata.participants.length
                 let unicorndoc = {key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "916909137213-1604595598@g.us"}, "message": {orderMessage: {itemCount: 9999999,status: 200, thumbnail: XeonWlcm, surface: 200, message: `${metadata.subject}`, orderTitle: 'xeon', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true}
-                 xeonbody = `🐬 Hi👋 @${xeonName.split("@")[0]}
+                 xeonbody = `ʜᴀɪɪ👋@${xeonName.split("@")[0]}
 
-🍁 Welcome To  ${metadata.subject}
-🍁 ${xmembers} Members
+ sᴇʟᴀᴍᴀᴛ ᴅᴀᴛᴀɴɢ  ${metadata.subject}
+ ${xmembers} Members
 
 Date 📆  =  ${xdate}
 Time ⏰ =  ${xtime} `
@@ -172,13 +172,13 @@ Time ⏰ =  ${xtime} `
    //dont forget to put my name(Xeon) as credit
    //you fail to put, i sue you for sure!
    let buttons = [
-    {buttonId: `owner`, buttonText: {displayText: '👍 WELCOME 👍'}, type: 1},
-    {buttonId: `menu`, buttonText: {displayText: '♞ MENU ♞'}, type: 1}
+    {buttonId: `owner`, buttonText: {displayText: ' WELCOME '}, type: 1},
+    {buttonId: `menu`, buttonText: {displayText: 'MENU'}, type: 1}
     ]
 let buttonMessage = {
     image: { url: 'https://i.ibb.co/Y3jRZJs/IMG-20220912-WA0150.jpg'},
 caption: xeonbody,
-footer: `✫ ✫ ✫𝙳𝙰𝚁𝙺 𝙽𝙴𝚁𝙾✫ ✫ ✫`,
+footer: `𝙁𝙖𝙪𝙯𝙞𝘽𝙤𝙩𝙯-𝙈𝙙`,
 buttons,
 headerType: 4
 }
@@ -190,22 +190,22 @@ XeonBotInc.sendMessage(anu.id, buttonMessage)
                 	let xeonName = num
                     const xeonmembers = metadata.participants.length
                     let unicorndoc = {key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "916909137213-1604595598@g.us"}, "message": {orderMessage: {itemCount: 9999999,status: 200, thumbnail: xeonbuffer, surface: 200, message: `${metadata.subject}`, orderTitle: 'xeon', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true}
-                     xeonbody = `🐬 Bye👋 @${xeonName.split("@")[0]}
+                     xeonbody = `ᴀᴋʜɪʀɴʏᴀ sɪʙᴇʙᴀɴ ᴋᴇʟᴜᴀʀ @${xeonName.split("@")[0]}
 
-🍁 Left From  ${metadata.subject}
-🍁 ${xeonmembers} Members
+ Left From  ${metadata.subject}
+ ${xeonmembers} Members
                     
 Date 📆 =  ${xeondate}
 Time ⏰ =  ${xeontime} `
 
    let buttons = [
-    {buttonId: `owner`, buttonText: {displayText: '🐼 BYE 🐼'}, type: 1},
-    {buttonId: `menu`, buttonText: {displayText: '♞ MENU ♞'}, type: 1}
+    {buttonId: `owner`, buttonText: {displayText: ' ɢᴀᴜsᴀʜ ʙᴀʟɪᴋ ʟᴀɢɪ ᴋᴏɴᴛᴏʟ '}, type: 1},
+    {buttonId: `menu`, buttonText: {displayText: 'MENU'}, type: 1}
     ]
     let buttonMessage = {
         image: { url: 'https://i.ibb.co/HTNKYJP/IMG-20220912-WA0152.jpg'},
     caption: xeonbody,
-    footer: `✫ ✫ ✫𝙳𝙰𝚁𝙺 𝙽𝙴𝚁𝙾✫ ✫ ✫`,
+    footer: `𝙁𝙖𝙪𝙯𝙞𝘽𝙤𝙩𝙯-𝙈𝙙`,
     buttons,
     headerType: 4
     }
